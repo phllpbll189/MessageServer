@@ -16,7 +16,7 @@ Enter a username that is **_not_** being used
 You will be able to type a broadcast message to everyone simply by typing anything that is not a "p" or an "e"
 
 ## Private messages
-**1.** Type p to enter Private Message Mode
+**1.** Type 'p' to enter Private Message Mode
 
 **2.** Type a username to send to
 
